@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PinCodeEditText">
+        <attr name="style" format="string"/>
+        <attr name="primaryStrokeWidth" format="dimension"/>
+        <attr name="secondaryStokeWidth" format="dimension"/>
+
+        <attr name="numOfChars" format="integer"/>
+        <attr name="enableMash" format="boolean" />
+
+        <attr name="primaryBgColor" format="color"/>
+        <attr name="secondaryBgColor" format="color"/>
+        <attr name="primaryEdgeColor" format="color"/>
+        <attr name="secondaryEdgeColor" format="color"/>
+        <attr name="primaryTextColor" format="color" />
+        <attr name="secondaryTextColor" format="color" />
+    </declare-styleable>
+
+</resources>
